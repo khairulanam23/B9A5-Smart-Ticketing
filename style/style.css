@@ -39,7 +39,7 @@ hr {
     grid-template-columns: auto 2px auto;
 }
 
-.seat {
+.seat2 {
     display: grid;
     grid-template-columns: auto repeat(4, 1fr);
 }
@@ -55,4 +55,21 @@ hr {
     font-size: 16px;
     font-weight: 400;
     line-height: 19px;
+}
+.pop-up{
+    display: none;
+    position: fixed;
+    top: 0%;
+    left:0%;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
+.pop-up-inside{
+    position: absolute;
+    top: 20%;
+    left:30%;
+    width: 718px;
+    height: 481px;
+    z-index: 1;
 }
