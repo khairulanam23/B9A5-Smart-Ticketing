@@ -59,14 +59,6 @@ P-Ticket/
 4. **Apply Coupons**: Enter coupon codes for discounts.
 5. **Complete Booking**: Fill in passenger details and proceed to finalize the booking.
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -am 'Add feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a pull request.
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
