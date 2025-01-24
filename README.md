@@ -60,7 +60,6 @@ P-Ticket/
 5. **Complete Booking**: Fill in passenger details and proceed to finalize the booking.
 
 ## License
-
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
